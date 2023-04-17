@@ -20,22 +20,22 @@ const About = () => {
                   LET ME <span className="yellow"> INTRODUCE </span> MYSELF
                 </h1>
                 <p className="home-about-body">
-                 Hi, my name is <span className="yellow">Md Abu Bakkar Siddiqe Sajib </span>
-                 and I'm from <span className="yellow"> Dhaka, Bangladesh.</span>
+                 Hi, my name is <span className="yellow"> Meera Koul </span>
+                 and I'm from <span className="yellow"> Jammu , Jammu and Kashmir </span>
                 <br />
                 <br />
-                I recently graduated with a Bachelor's degree in Computer Science and Engineering in 2021.
+                I recently graduated with a Bachelor's degree in Computer Science and Engineering in 2022.
                 <br />
                 <br />
                   As a
-                  <b className="yellow"> Full-Stack </b>developer,  
+                  <b className="yellow"> Frontend </b> Developer,  
                   I enjoy tackling new challenges and continuously expanding my skillset.
-                  <br />
-                  <br />I am proficient in
-                    <b className="yellow"> Javascript, </b>
-                    as well as have knowledge in programming languages such as C, Java, Python,
-                  <b className="yellow"> GraphQL, and Solidity.</b>
-                  <br />
+                  <br/>
+
+                  <br />I  have knowledge in programming languages such as
+                  <b className="yellow"> C, C++ , HTML , CSS, React, SQL , Problem-Solving , Communication-Skills</b>
+                  <br/>
+
                   <br />
                   I have a passion for working
                   with <b className="yellow">Node.js, MongoDB,</b> and
@@ -53,9 +53,8 @@ const About = () => {
                   <br />
                   I am also interested in building new
                   <i>
-                    <b className="yellow"> Web Technologies and Products, </b>
-                    as well as exploring areas related to
-                    <b className="yellow"> Artificial Intelligence.</b>
+                    <b className="yellow"> Web Technologies and Products. </b>
+                  
                   </i>
                   <br />
                   
@@ -76,7 +75,7 @@ const About = () => {
                 <ul className="home-about-social-links">
                   <li className="social-icons">
                     <a
-                      href="https://github.com/19sajib"
+                      href="https://leetcode.com/koulmeera927/"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour  home-social-icons"
@@ -98,7 +97,7 @@ const About = () => {
                   </li>
                   <li className="social-icons">
                     <a
-                      href="https://www.linkedin.com/in/19sajib/"
+                      href="https://www.linkedin.com/in/meera-koul-1662741b4/"
                       target="_blank"
                       rel="noreferrer"
                       className="icon-colour  home-social-icons"
