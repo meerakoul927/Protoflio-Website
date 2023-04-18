@@ -33,7 +33,7 @@ const About = () => {
                   <br/>
 
                   <br />I  have knowledge in programming languages such as
-                  <b className="yellow"> C, C++ , HTML , CSS, React, SQL , Problem-Solving , Communication-Skills</b>
+                  <b className="yellow"> C, C++,  HTML , CSS, React, SQL , Problem-Solving , Communication-Skills</b>
                   <br/>
 
                   <br />
